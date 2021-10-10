@@ -22,11 +22,12 @@ Users should be able to:
 
 ### Screenshot
 Desktop Preview
+![_C__Users_joshu_Documents_vscode%20files_3%20column%20preview%20card_index html (2)](https://user-images.githubusercontent.com/60978579/136705011-2eb2e048-e465-4683-b7ed-3d10b3ab90c0.png)
 
- 
+Mobile Preview
 
-Mobile Design
- 
+ ![_C__Users_joshu_Documents_vscode%20files_3%20column%20preview%20card_index html](https://user-images.githubusercontent.com/60978579/136705045-fcb7978a-05b7-43c6-a12e-576daed5eb0a.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
