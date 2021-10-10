@@ -63,7 +63,7 @@ This particular challenge broadened my knowledge more on the use of flexbox, bor
 
 ## Author
 
-- Frontend Mentor - [@Bossboygod](https://www.frontendmentor.io/profile/ogundeyijoshua)
+- Frontend Mentor - [@Bossboygod](https://www.frontendmentor.io/profile/Bossboygod)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
